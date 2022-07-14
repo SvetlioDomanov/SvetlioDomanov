@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SvetlioDomanov
 - 👀 I’m interested in programming, app development, web development, graphic design
 - 🌱 I’m currently learning Java at Softuni and Software Engineering at Technical University- Sofia
-- 📫 How to reach me: sdomanov@abv.bg, @svetliodomanov
+- 📫 How to reach me: domanoff.s@gmail.com
